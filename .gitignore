@@ -1,0 +1,13 @@
+.venv/
+**/.venv/
+__pycache__/
+*.py[cod]
+frontend/node_modules/
+frontend/dist/
+/package-lock.json
+backend/data/history.db
+backend/models/*.joblib
+backend/models/metrics.json
+.env
+.env.*
+!.env.example
